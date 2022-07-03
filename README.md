@@ -2,7 +2,7 @@
 
 I'm a self-taught .NET Developer form The Netherlands.
 
-##### About me
+#### About me
 - 👨‍💻 I mainly code in C# .NET and Python
 
 ![Sten's GitHub stats](https://github-readme-stats.vercel.app/api?username=sten-code&show_icons=true&theme=dark&custom_title=My%20Statistics)
