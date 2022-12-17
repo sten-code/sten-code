@@ -1,6 +1,6 @@
 # Hey, I'm Sten
 
-I'm a self-taught .NET Developer from The Netherlands.
+I'm a self-taught Developer from The Netherlands.
 
 #### About me
 - 👨‍💻 I mainly code in C# and Python
